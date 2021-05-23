@@ -29,7 +29,6 @@ export default function destructObj(obj) {
     }
   }
   return special;
-
 }
 
 destructObj(character);
